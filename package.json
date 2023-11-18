@@ -1,6 +1,11 @@
 {
-  "private": true,
-  "author": "YC.W <contact@wangyuchen.cn>",
+  "name": "umi-qiankun-wrapper",
+  "author": "Yuchen Wang <andy.wang@longzai.net.cn>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longzai-cn/umi-qiankun-wrapper.git"
+  },
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
